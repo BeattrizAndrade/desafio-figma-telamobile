@@ -63,6 +63,7 @@ input::placeholder {
     display: block;
     margin: 17px 16px 20px 225px;
     color: #007AFF;
+    width: 755px;
 }
 
 button {
